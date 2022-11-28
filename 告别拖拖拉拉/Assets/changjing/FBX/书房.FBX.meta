@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: 7fba716ecaf6f8c4e82e97b67f41e56d
+timeCreated: 1666768109
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arch20_069_09
+    100002: arch20_069_10
+    100004: arch20_069_12
+    100006: arch20_069_14
+    100008: arch20_069_15
+    100010: arch20_069_17
+    100012: arch20_069_19
+    100014: Box001
+    100016: Camera001
+    100018: cgaxis_electronics_29_01
+    100020: cgaxis_electronics_29_02
+    100022: cgaxis_electronics_29_04
+    100024: cgaxis_electronics_29_05
+    100026: cgaxis_electronics_29_06
+    100028: Group001
+    100030: Line002
+    100032: Obj3d66-1449705-11-243
+    100034: Obj3d66-1449705-161-663
+    100036: Obj3d66-1449705-163-837
+    100038: Obj3d66-1449705-167-169
+    100040: Obj3d66-1449705-178-458
+    100042: Obj3d66-1449705-179-940
+    100044: Obj3d66-1449705-196-680
+    100046: Obj3d66-1449705-199-350
+    100048: Obj3d66-1449705-20-821
+    100050: Obj3d66-1449705-203-917
+    100052: Obj3d66-1449705-205-772
+    100054: Obj3d66-1449705-21-609
+    100056: Obj3d66-1449705-232-680
+    100058: Obj3d66-1449705-240-183
+    100060: Obj3d66-1449705-244-979
+    100062: Obj3d66-1449705-250-873
+    100064: Obj3d66-1449705-257-73
+    100066: Obj3d66-1449705-26-564
+    100068: Obj3d66-1449705-273-853
+    100070: Obj3d66-1449705-277-090
+    100072: Obj3d66-1449705-279-276
+    100074: Obj3d66-1449705-280-155
+    100076: Obj3d66-1449705-281-160
+    100078: Obj3d66-1449705-282-266
+    100080: Obj3d66-1449705-283-620
+    100082: Obj3d66-1449705-284-221
+    100084: Obj3d66-1449705-285-961
+    100086: Obj3d66-1449705-286-507
+    100088: Obj3d66-1449705-287-98
+    100090: Obj3d66-1449705-288-678
+    100092: Obj3d66-1449705-289-74
+    100094: Obj3d66-1449705-29-166
+    100096: Obj3d66-1449705-290-339
+    100098: Obj3d66-1449705-292-731
+    100100: Obj3d66-1449705-293-748
+    100102: Obj3d66-1449705-31-517
+    100104: Obj3d66-1449705-34-925
+    100106: Obj3d66-1449705-37-324
+    100108: Obj3d66-1449705-38-548
+    100110: Obj3d66-1449705-40-87
+    100112: Obj3d66-1449705-41-392
+    100114: Obj3d66-1449705-43-528
+    100116: Obj3d66-1449705-44-759
+    100118: Obj3d66-1449705-45-460
+    100120: Obj3d66-1449705-48-980
+    100122: Obj3d66-1449705-5-694
+    100124: Obj3d66-1449705-51-500
+    100126: Obj3d66-1449705-52-587
+    100128: Obj3d66-1449705-57-696
+    100130: Obj3d66-1449705-6-813
+    100132: Obj3d66-1449705-62-771
+    100134: Obj3d66-1449705-63-126
+    100136: Obj3d66-1449705-68-636
+    100138: Obj3d66-1449705-71-339
+    100140: Obj3d66-1449705-72-217
+    100142: Obj3d66-1449705-77-842
+    100144: Obj3d66-1449705-8-80
+    100146: Obj3d66-1449705-89-155
+    100148: Object001
+    100150: Object002
+    100152: Object003
+    100154: Object004
+    100156: Object005
+    100158: Object006
+    100160: Object007
+    100162: Object008
+    100164: Rectangle001
+    100166: Rectangle002
+    100168: zhongbiao
+    100170: //RootNode
+    100172: "\u6E38\u620F\u673A"
+    400000: arch20_069_09
+    400002: arch20_069_10
+    400004: arch20_069_12
+    400006: arch20_069_14
+    400008: arch20_069_15
+    400010: arch20_069_17
+    400012: arch20_069_19
+    400014: Box001
+    400016: Camera001
+    400018: cgaxis_electronics_29_01
+    400020: cgaxis_electronics_29_02
+    400022: cgaxis_electronics_29_04
+    400024: cgaxis_electronics_29_05
+    400026: cgaxis_electronics_29_06
+    400028: Group001
+    400030: Line002
+    400032: Obj3d66-1449705-11-243
+    400034: Obj3d66-1449705-161-663
+    400036: Obj3d66-1449705-163-837
+    400038: Obj3d66-1449705-167-169
+    400040: Obj3d66-1449705-178-458
+    400042: Obj3d66-1449705-179-940
+    400044: Obj3d66-1449705-196-680
+    400046: Obj3d66-1449705-199-350
+    400048: Obj3d66-1449705-20-821
+    400050: Obj3d66-1449705-203-917
+    400052: Obj3d66-1449705-205-772
+    400054: Obj3d66-1449705-21-609
+    400056: Obj3d66-1449705-232-680
+    400058: Obj3d66-1449705-240-183
+    400060: Obj3d66-1449705-244-979
+    400062: Obj3d66-1449705-250-873
+    400064: Obj3d66-1449705-257-73
+    400066: Obj3d66-1449705-26-564
+    400068: Obj3d66-1449705-273-853
+    400070: Obj3d66-1449705-277-090
+    400072: Obj3d66-1449705-279-276
+    400074: Obj3d66-1449705-280-155
+    400076: Obj3d66-1449705-281-160
+    400078: Obj3d66-1449705-282-266
+    400080: Obj3d66-1449705-283-620
+    400082: Obj3d66-1449705-284-221
+    400084: Obj3d66-1449705-285-961
+    400086: Obj3d66-1449705-286-507
+    400088: Obj3d66-1449705-287-98
+    400090: Obj3d66-1449705-288-678
+    400092: Obj3d66-1449705-289-74
+    400094: Obj3d66-1449705-29-166
+    400096: Obj3d66-1449705-290-339
+    400098: Obj3d66-1449705-292-731
+    400100: Obj3d66-1449705-293-748
+    400102: Obj3d66-1449705-31-517
+    400104: Obj3d66-1449705-34-925
+    400106: Obj3d66-1449705-37-324
+    400108: Obj3d66-1449705-38-548
+    400110: Obj3d66-1449705-40-87
+    400112: Obj3d66-1449705-41-392
+    400114: Obj3d66-1449705-43-528
+    400116: Obj3d66-1449705-44-759
+    400118: Obj3d66-1449705-45-460
+    400120: Obj3d66-1449705-48-980
+    400122: Obj3d66-1449705-5-694
+    400124: Obj3d66-1449705-51-500
+    400126: Obj3d66-1449705-52-587
+    400128: Obj3d66-1449705-57-696
+    400130: Obj3d66-1449705-6-813
+    400132: Obj3d66-1449705-62-771
+    400134: Obj3d66-1449705-63-126
+    400136: Obj3d66-1449705-68-636
+    400138: Obj3d66-1449705-71-339
+    400140: Obj3d66-1449705-72-217
+    400142: Obj3d66-1449705-77-842
+    400144: Obj3d66-1449705-8-80
+    400146: Obj3d66-1449705-89-155
+    400148: Object001
+    400150: Object002
+    400152: Object003
+    400154: Object004
+    400156: Object005
+    400158: Object006
+    400160: Object007
+    400162: Object008
+    400164: Rectangle001
+    400166: Rectangle002
+    400168: zhongbiao
+    400170: //RootNode
+    400172: "\u6E38\u620F\u673A"
+    2100000: 'Material #2147483592'
+    2100002: 11 - Default
+    2100004: 21 - Default
+    2100006: 13 - Default
+    2100008: 24 - Default
+    2100010: 'Material #2147483587'
+    2100012: 'Material #-2147483607'
+    2100014: 14 - Default
+    2100016: 15 - Default
+    2100018: 22 - Default
+    2100020: 'Material #-2147483624'
+    2100022: 08 - Default
+    2100024: 'Material #2147483572'
+    2100026: 02 - Default
+    2100028: 18 - Default
+    2100030: 01 - Defaultsafdasgf
+    2100032: 13 - Defaultasdfasf
+    2100034: 02 - Defaultaaaaasd
+    2100036: 03 - Default
+    2100038: 14 - Defaultsadfasdg
+    2100040: 10 - Default
+    2100042: 22 - Defaultsdfas
+    2100044: 20 - Defaultasdff
+    2100046: 21 - Defaultaaaa
+    2100048: 23 - Default
+    2100050: 06 - Default
+    2100052: 'Material #-2147483625'
+    2100054: 16 - Default
+    2100056: 17 - Default
+    2100058: 'Material #-2147483620'
+    2100060: 'Material #-2147483621'
+    2100062: 'Material #-2147483619'
+    2100064: 01 - Default
+    2100066: 09 - Defaultasdf
+    2100068: 10 - Defaultsaaa
+    2100070: 12 - Defaultdsafsadsfga
+    2100072: 07 - Default
+    2100074: 18 - Defaultsdfas
+    2100076: 08 - Defaultasfdsaf
+    2100078: 23 - Defaultsdfasd
+    2100080: 09 - Default
+    2100082: 16 - Defaultasdfas
+    2100084: 11 - Defaultsadfasd
+    2100086: 12 - Defaultdsafsa
+    2100088: 15 - Defaultsadfas
+    2100090: 06 - Defaultsdfasdfa
+    2100092: 17 - Defaultasdfsad
+    2100094: 12 - Default
+    2100096: 05 - Default
+    2100098: 'Material #16'
+    2100100: 'Material #2147483588'
+    2100102: 04 - Default
+    2100104: 'Material #2147483589'
+    2100106: 01 - Defaultasdfas
+    2100108: 'Material #2'
+    2100110: 'Material #2147483590'
+    2100112: 'Material #2147483591'
+    2100114: No Name
+    2100116: 'Material #-2147483466'
+    2300000: arch20_069_09
+    2300002: arch20_069_10
+    2300004: arch20_069_12
+    2300006: arch20_069_14
+    2300008: arch20_069_15
+    2300010: arch20_069_17
+    2300012: arch20_069_19
+    2300014: Box001
+    2300016: cgaxis_electronics_29_01
+    2300018: cgaxis_electronics_29_02
+    2300020: cgaxis_electronics_29_04
+    2300022: cgaxis_electronics_29_05
+    2300024: cgaxis_electronics_29_06
+    2300026: Line002
+    2300028: Obj3d66-1449705-11-243
+    2300030: Obj3d66-1449705-161-663
+    2300032: Obj3d66-1449705-163-837
+    2300034: Obj3d66-1449705-167-169
+    2300036: Obj3d66-1449705-178-458
+    2300038: Obj3d66-1449705-179-940
+    2300040: Obj3d66-1449705-196-680
+    2300042: Obj3d66-1449705-199-350
+    2300044: Obj3d66-1449705-20-821
+    2300046: Obj3d66-1449705-203-917
+    2300048: Obj3d66-1449705-205-772
+    2300050: Obj3d66-1449705-21-609
+    2300052: Obj3d66-1449705-232-680
+    2300054: Obj3d66-1449705-240-183
+    2300056: Obj3d66-1449705-244-979
+    2300058: Obj3d66-1449705-250-873
+    2300060: Obj3d66-1449705-257-73
+    2300062: Obj3d66-1449705-26-564
+    2300064: Obj3d66-1449705-273-853
+    2300066: Obj3d66-1449705-277-090
+    2300068: Obj3d66-1449705-279-276
+    2300070: Obj3d66-1449705-280-155
+    2300072: Obj3d66-1449705-281-160
+    2300074: Obj3d66-1449705-282-266
+    2300076: Obj3d66-1449705-283-620
+    2300078: Obj3d66-1449705-284-221
+    2300080: Obj3d66-1449705-285-961
+    2300082: Obj3d66-1449705-286-507
+    2300084: Obj3d66-1449705-287-98
+    2300086: Obj3d66-1449705-288-678
+    2300088: Obj3d66-1449705-289-74
+    2300090: Obj3d66-1449705-29-166
+    2300092: Obj3d66-1449705-290-339
+    2300094: Obj3d66-1449705-292-731
+    2300096: Obj3d66-1449705-293-748
+    2300098: Obj3d66-1449705-31-517
+    2300100: Obj3d66-1449705-34-925
+    2300102: Obj3d66-1449705-37-324
+    2300104: Obj3d66-1449705-38-548
+    2300106: Obj3d66-1449705-40-87
+    2300108: Obj3d66-1449705-41-392
+    2300110: Obj3d66-1449705-43-528
+    2300112: Obj3d66-1449705-44-759
+    2300114: Obj3d66-1449705-45-460
+    2300116: Obj3d66-1449705-48-980
+    2300118: Obj3d66-1449705-5-694
+    2300120: Obj3d66-1449705-51-500
+    2300122: Obj3d66-1449705-52-587
+    2300124: Obj3d66-1449705-57-696
+    2300126: Obj3d66-1449705-6-813
+    2300128: Obj3d66-1449705-62-771
+    2300130: Obj3d66-1449705-63-126
+    2300132: Obj3d66-1449705-68-636
+    2300134: Obj3d66-1449705-71-339
+    2300136: Obj3d66-1449705-72-217
+    2300138: Obj3d66-1449705-77-842
+    2300140: Obj3d66-1449705-8-80
+    2300142: Obj3d66-1449705-89-155
+    2300144: Object001
+    2300146: Object002
+    2300148: Object003
+    2300150: Object004
+    2300152: Object005
+    2300154: Object006
+    2300156: Object007
+    2300158: Object008
+    2300160: Rectangle001
+    2300162: Rectangle002
+    3300000: arch20_069_09
+    3300002: arch20_069_10
+    3300004: arch20_069_12
+    3300006: arch20_069_14
+    3300008: arch20_069_15
+    3300010: arch20_069_17
+    3300012: arch20_069_19
+    3300014: Box001
+    3300016: cgaxis_electronics_29_01
+    3300018: cgaxis_electronics_29_02
+    3300020: cgaxis_electronics_29_04
+    3300022: cgaxis_electronics_29_05
+    3300024: cgaxis_electronics_29_06
+    3300026: Line002
+    3300028: Obj3d66-1449705-11-243
+    3300030: Obj3d66-1449705-161-663
+    3300032: Obj3d66-1449705-163-837
+    3300034: Obj3d66-1449705-167-169
+    3300036: Obj3d66-1449705-178-458
+    3300038: Obj3d66-1449705-179-940
+    3300040: Obj3d66-1449705-196-680
+    3300042: Obj3d66-1449705-199-350
+    3300044: Obj3d66-1449705-20-821
+    3300046: Obj3d66-1449705-203-917
+    3300048: Obj3d66-1449705-205-772
+    3300050: Obj3d66-1449705-21-609
+    3300052: Obj3d66-1449705-232-680
+    3300054: Obj3d66-1449705-240-183
+    3300056: Obj3d66-1449705-244-979
+    3300058: Obj3d66-1449705-250-873
+    3300060: Obj3d66-1449705-257-73
+    3300062: Obj3d66-1449705-26-564
+    3300064: Obj3d66-1449705-273-853
+    3300066: Obj3d66-1449705-277-090
+    3300068: Obj3d66-1449705-279-276
+    3300070: Obj3d66-1449705-280-155
+    3300072: Obj3d66-1449705-281-160
+    3300074: Obj3d66-1449705-282-266
+    3300076: Obj3d66-1449705-283-620
+    3300078: Obj3d66-1449705-284-221
+    3300080: Obj3d66-1449705-285-961
+    3300082: Obj3d66-1449705-286-507
+    3300084: Obj3d66-1449705-287-98
+    3300086: Obj3d66-1449705-288-678
+    3300088: Obj3d66-1449705-289-74
+    3300090: Obj3d66-1449705-29-166
+    3300092: Obj3d66-1449705-290-339
+    3300094: Obj3d66-1449705-292-731
+    3300096: Obj3d66-1449705-293-748
+    3300098: Obj3d66-1449705-31-517
+    3300100: Obj3d66-1449705-34-925
+    3300102: Obj3d66-1449705-37-324
+    3300104: Obj3d66-1449705-38-548
+    3300106: Obj3d66-1449705-40-87
+    3300108: Obj3d66-1449705-41-392
+    3300110: Obj3d66-1449705-43-528
+    3300112: Obj3d66-1449705-44-759
+    3300114: Obj3d66-1449705-45-460
+    3300116: Obj3d66-1449705-48-980
+    3300118: Obj3d66-1449705-5-694
+    3300120: Obj3d66-1449705-51-500
+    3300122: Obj3d66-1449705-52-587
+    3300124: Obj3d66-1449705-57-696
+    3300126: Obj3d66-1449705-6-813
+    3300128: Obj3d66-1449705-62-771
+    3300130: Obj3d66-1449705-63-126
+    3300132: Obj3d66-1449705-68-636
+    3300134: Obj3d66-1449705-71-339
+    3300136: Obj3d66-1449705-72-217
+    3300138: Obj3d66-1449705-77-842
+    3300140: Obj3d66-1449705-8-80
+    3300142: Obj3d66-1449705-89-155
+    3300144: Object001
+    3300146: Object002
+    3300148: Object003
+    3300150: Object004
+    3300152: Object005
+    3300154: Object006
+    3300156: Object007
+    3300158: Object008
+    3300160: Rectangle001
+    3300162: Rectangle002
+    4300000: Obj3d66-1449705-5-694
+    4300002: Obj3d66-1449705-6-813
+    4300004: Obj3d66-1449705-8-80
+    4300006: Obj3d66-1449705-11-243
+    4300008: Obj3d66-1449705-34-925
+    4300010: Obj3d66-1449705-40-87
+    4300012: Obj3d66-1449705-41-392
+    4300014: Obj3d66-1449705-89-155
+    4300016: Obj3d66-1449705-163-837
+    4300018: Obj3d66-1449705-37-324
+    4300020: Obj3d66-1449705-38-548
+    4300022: Obj3d66-1449705-20-821
+    4300024: Obj3d66-1449705-21-609
+    4300026: Obj3d66-1449705-26-564
+    4300028: Obj3d66-1449705-29-166
+    4300030: Obj3d66-1449705-31-517
+    4300032: Obj3d66-1449705-43-528
+    4300034: Obj3d66-1449705-44-759
+    4300036: Obj3d66-1449705-45-460
+    4300038: Obj3d66-1449705-48-980
+    4300040: Obj3d66-1449705-51-500
+    4300042: Obj3d66-1449705-52-587
+    4300044: Obj3d66-1449705-57-696
+    4300046: Obj3d66-1449705-62-771
+    4300048: Obj3d66-1449705-63-126
+    4300050: Obj3d66-1449705-68-636
+    4300052: Obj3d66-1449705-71-339
+    4300054: Obj3d66-1449705-72-217
+    4300056: Obj3d66-1449705-273-853
+    4300058: Obj3d66-1449705-161-663
+    4300060: Obj3d66-1449705-279-276
+    4300062: Obj3d66-1449705-280-155
+    4300064: Obj3d66-1449705-281-160
+    4300066: Obj3d66-1449705-282-266
+    4300068: Obj3d66-1449705-283-620
+    4300070: Obj3d66-1449705-284-221
+    4300072: Obj3d66-1449705-285-961
+    4300074: Obj3d66-1449705-286-507
+    4300076: Obj3d66-1449705-287-98
+    4300078: Obj3d66-1449705-288-678
+    4300080: Obj3d66-1449705-289-74
+    4300082: Obj3d66-1449705-290-339
+    4300084: Obj3d66-1449705-292-731
+    4300086: Obj3d66-1449705-293-748
+    4300088: Obj3d66-1449705-167-169
+    4300090: Obj3d66-1449705-178-458
+    4300092: Obj3d66-1449705-179-940
+    4300094: Obj3d66-1449705-203-917
+    4300096: Obj3d66-1449705-205-772
+    4300098: Obj3d66-1449705-77-842
+    4300100: Obj3d66-1449705-232-680
+    4300102: Obj3d66-1449705-240-183
+    4300104: Obj3d66-1449705-244-979
+    4300106: Obj3d66-1449705-250-873
+    4300108: Obj3d66-1449705-257-73
+    4300110: Obj3d66-1449705-196-680
+    4300112: Obj3d66-1449705-199-350
+    4300114: Obj3d66-1449705-277-090
+    4300116: Line002
+    4300118: Rectangle001
+    4300120: Rectangle002
+    4300122: cgaxis_electronics_29_06
+    4300124: cgaxis_electronics_29_01
+    4300126: cgaxis_electronics_29_02
+    4300128: cgaxis_electronics_29_05
+    4300130: cgaxis_electronics_29_04
+    4300132: arch20_069_09
+    4300134: arch20_069_10
+    4300136: arch20_069_12
+    4300138: arch20_069_14
+    4300140: arch20_069_15
+    4300142: arch20_069_17
+    4300144: arch20_069_19
+    4300146: Object001
+    4300148: Object002
+    4300150: Object003
+    4300152: Object004
+    4300154: Object005
+    4300156: Object006
+    4300158: Object007
+    4300160: Object008
+    4300162: Box001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 4b76d8c31f46f614d84e4e47753a44be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Defaultasdfas
+    second: {fileID: 2100000, guid: bcc7a52d9e48e2f4d895697ee58cf782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Defaultsafdasgf
+    second: {fileID: 2100000, guid: 5fc35973fb184f3429c3c55985f2a0d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 040cfc024dee44a4ca94ee798ed8e771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Defaultaaaaasd
+    second: {fileID: 2100000, guid: fc42315ffb216b041a664d8ed0b47186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: b596b4c1ea1f02146a6e1d9fac8b4973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 7bbd3de3a068a4e4c9700548ab96e364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: 409f807315e05c0418d807911412707a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: c22a140670edd3a4d8e40e607d4609a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Defaultsdfasdfa
+    second: {fileID: 2100000, guid: e11a7f50aa1bff544a593f4b8406ac8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 3da83e1c48dab2045961312562550998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 0bbadf7b41f65d64c84e0031f9a29230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Defaultasfdsaf
+    second: {fileID: 2100000, guid: 8a2f1a83d7aa7964d85659adff697494, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 30dadfff3a08aed4a86f106a546e4bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Defaultasdf
+    second: {fileID: 2100000, guid: d6a383b5abf57db4d82514a862921e5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 436b9556c1832e54182c855c09aece86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Defaultsaaa
+    second: {fileID: 2100000, guid: cbe5ba90028822241b092000c5da469c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: 09d7c9763cd4e8248b26e1b864938c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Defaultsadfasd
+    second: {fileID: 2100000, guid: b1b284b9b30ed3a4a84cb84f3b9c6455, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Default
+    second: {fileID: 2100000, guid: f6969b4908a9f7b44bbb5dd1c7312c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Defaultdsafsa
+    second: {fileID: 2100000, guid: 11a706fc221c5bb4797d9fcb9532176b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Defaultdsafsadsfga
+    second: {fileID: 2100000, guid: 1b5acb513b53e3a46955457979cce22e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 8a095f895e0447648a341790adbbd320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Defaultasdfasf
+    second: {fileID: 2100000, guid: 8d1c292cbf999be489bed3ce919f7eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: 9a5f998d60f3a7d4a95d35d57f842ad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Defaultsadfasdg
+    second: {fileID: 2100000, guid: f1796a61689378c4e8689b2f0b6eac83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 7dfcf6b234bee2a408530a8fb6f77d20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Defaultsadfas
+    second: {fileID: 2100000, guid: a7299fb6b152a9843961b6f66797d35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: a0b55c36edeaf5647a43eb6d7ce2c2d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Defaultasdfas
+    second: {fileID: 2100000, guid: 4c3d5c55d1d32cf49966bee0996c040e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: 31b64f5dedf40bb4eae10767365aa5e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Defaultasdfsad
+    second: {fileID: 2100000, guid: 09b1ecae0b01eb84b85d044e3925ec36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: b0f79adb4d86efb4c9621ec0b7c1b29c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Defaultsdfas
+    second: {fileID: 2100000, guid: ae01d18eae284d54b931bd8c8ee4ec3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Defaultasdff
+    second: {fileID: 2100000, guid: 3c2dce813af3d8d46bc60318859063a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 36462d9a849701947bb06be53c66895b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Defaultaaaa
+    second: {fileID: 2100000, guid: e8e79632b0a17214a8a84365ccb50c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: cc2a77cdc4f7cb64d9c9ed54b2906cf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Defaultsdfas
+    second: {fileID: 2100000, guid: 4d0895a36b6ae5c4ea0494b4bcdd0794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23 - Default
+    second: {fileID: 2100000, guid: 5723cf604ffc23e42be35de0c6d433c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23 - Defaultsdfasd
+    second: {fileID: 2100000, guid: a7310dc1b0c81574fb46eb09e3e98b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - Default
+    second: {fileID: 2100000, guid: dd3177237b7406a459530e13b60e37e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #-2147483466'
+    second: {fileID: 2100000, guid: a6ae87e7c30a3e14d9a6c8ac859490fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #-2147483607'
+    second: {fileID: 2100000, guid: 18a904836ca68e34481a7bded25acbea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #-2147483619'
+    second: {fileID: 2100000, guid: e438061f177a44f429c5015156946141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #-2147483620'
+    second: {fileID: 2100000, guid: b464a3c137244324c9ec01d58700100b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #-2147483621'
+    second: {fileID: 2100000, guid: b0298d9b200999843987027031c7f44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #-2147483624'
+    second: {fileID: 2100000, guid: 4aa49669663bdb4498f37f53388a90ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #-2147483625'
+    second: {fileID: 2100000, guid: a6ae87e7c30a3e14d9a6c8ac859490fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16'
+    second: {fileID: 2100000, guid: c93f93b2bfde152469dd85532b97ef9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 8e53b518c0398274a861381bc73db519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147483572'
+    second: {fileID: 2100000, guid: 9eb90cc015eeb5943a64f3ee927cbb6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147483587'
+    second: {fileID: 2100000, guid: d4e18b38f33e54d4c801d8d2ddeed745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147483588'
+    second: {fileID: 2100000, guid: 44e90a41027c3fe4bb512c3846f9034f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147483589'
+    second: {fileID: 2100000, guid: b893e2101dd94a24c8ac7f79e6b2b070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147483590'
+    second: {fileID: 2100000, guid: 447db01a541c07740b4387b1c6315a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147483591'
+    second: {fileID: 2100000, guid: 09d7c9763cd4e8248b26e1b864938c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147483592'
+    second: {fileID: 2100000, guid: 2e6a0f2295a27c04aad3992070fdacfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2a511cd64e7e9db419c4f15bebfcd60d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
