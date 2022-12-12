@@ -1,4 +1,5 @@
 ﻿using OneFlyLib;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,7 +13,8 @@ using Universal.Card;
 * 创建日期：
 * 功能描述：UI操作控制
 ***********************************************/
-public class UIOptionControl : MonoBehaviour {
+public class UIOptionControl : MonoBehaviour
+{
 
     public Dictionary<string, bool> cardCount;
 
@@ -51,8 +53,15 @@ public class UIOptionControl : MonoBehaviour {
         ManagerEvent.Register(Tips.ShowHint, ShowHintHandler);
         ManagerEvent.Register(cardEventDone, SetCardEventDoneHandler);
         ManagerEvent.Register(stageReset, StageResetHandler);
+        ManagerEvent.Register("playVideo", SetPlayerVideo);
+
     }
 
+    private void SetPlayerVideo(object[] args)
+    {
+        var uiScene = UIManager.Instance.GetUI<UISceneVideo>(UIName.UISceneVideo);
+        uiScene.SetPlayVideo();
+    }
 
     void OnDisable()
     {

@@ -10,6 +10,8 @@ public class UIName
     public const string UIScenePurpose = "UIScene_Purpose";
     public const string UISceneStep = "UIScene_Step";
     public const string UISceneProgress = "UIScene_Progress";
+    public const string UISceneVideo = "UIScene_Video";
+    public const string UIScenePlane = "UIScene_Plane";
 }
 public class UIManager : MonoSingleton<UIManager>
 {

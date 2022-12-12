@@ -1,7 +1,7 @@
 ﻿
 [Scene]
 50 = Start
-52 = ClassControl
+85 = ClassControl
 56 =  Answer
 57 = Continue
 98 = AngelOfReason

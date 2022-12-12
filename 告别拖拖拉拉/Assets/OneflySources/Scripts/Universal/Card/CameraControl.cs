@@ -61,8 +61,10 @@ public class CameraControl : ModelControl {
             }
             else
             {
-                _camera.transform.position = Targets[num].transform.position;
-                _camera.transform.rotation = Targets[num].transform.rotation;
+                //_camera.transform.position = Targets[num].transform.position;
+                //_camera.transform.rotation = Targets[num].transform.rotation;
+                _camera.transform.localPosition = new Vector3(0, -0.94f, 0.74f);
+                _camera.transform.eulerAngles = new Vector3(29.8f, 0, 0);
             }
         }
     }
